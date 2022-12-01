@@ -1,1 +1,13 @@
+ejercicio 0
+The teacher asks his 5 students if they studied mathematics yesterday.
 
+Alice: "Nobody studied math yesterday".
+Bob: "1 person studied math yesterday".
+Charlie: "2 people studied math yesterday".
+Dan: "3 people studied mathematics yesterday".
+Eva: "4 people studied mathematics yesterday".
+
+The teacher knows that only those who studied would be telling the truth and those who didn't would be lying. Who is telling the truth?
+Sol:
+if we take that Alice is telling the truth, is contradictory because if "those who are studied are telling the trut" doesn't make sense with the fact of none has studied.
+if we take that Charlie, Dan or Eva are telling the truth, all are contradictory wiht the others sentences. so the only that is telling the truth is Bob.
