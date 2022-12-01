@@ -1,4 +1,4 @@
-ejercicio 0
+reto 0
 The teacher asks his 5 students if they studied mathematics yesterday.
 
 Alice: "Nobody studied math yesterday".
@@ -12,4 +12,9 @@ Sol:
 if we take that Alice is telling the truth, is contradictory because if "those who are studied are telling the trut" doesn't make sense with the fact of none has studied.
 if we take that Charlie, Dan or Eva are telling the truth, all are contradictory wiht the others sentences. so the only that is telling the truth is Bob.
 
-![ceral](https://user-images.githubusercontent.com/32689687/204934670-825d0183-31ce-47bb-a648-ee492fe7c81e.jpg)
+reto 1
+Create an algorithm to prepare a bowl of cereal with milk. Represent the result in pseudocode and in a flowchart.
+ir
+<img src="https://user-images.githubusercontent.com/32689687/204934670-825d0183-31ce-47bb-a648-ee492fe7c81e.jpg" width="50%" height="50%">
+
+
