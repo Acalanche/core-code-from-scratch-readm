@@ -14,7 +14,25 @@ if we take that Charlie, Dan or Eva are telling the truth, all are contradictory
 
 reto 1
 Create an algorithm to prepare a bowl of cereal with milk. Represent the result in pseudocode and in a flowchart.
-ir
+Start
+open the fridge
+if we still have milk:
+take the milk
+open the pantry
+if we still have cereal:
+take a bowl
+put the cereal on the bowl
+add milk to the cereal on the bowl
+if we don have milk or cereal:
+go to the store
+buy milk or cereal
+go home
+take a bowl
+put cereal on the bowl
+add milk to the cereal on the bowl
+end
+
 <img src="https://user-images.githubusercontent.com/32689687/204934670-825d0183-31ce-47bb-a648-ee492fe7c81e.jpg" width="50%" height="50%">
+retos 2,3 y 4
 
 
