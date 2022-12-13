@@ -1,4 +1,4 @@
-reto 0
+reto 1
 The teacher asks his 5 students if they studied mathematics yesterday.
 
 Alice: "Nobody studied math yesterday".
@@ -12,7 +12,7 @@ Sol:
 if we take that Alice is telling the truth, is contradictory because if "those who are studied are telling the trut" doesn't make sense with the fact of none has studied.
 if we take that Charlie, Dan or Eva are telling the truth, all are contradictory wiht the others sentences. so the only that is telling the truth is Bob.
 
-reto 1
+reto 2
 Create an algorithm to prepare a bowl of cereal with milk. Represent the result in pseudocode and in a flowchart.
 Start
 open the fridge
@@ -33,10 +33,10 @@ add milk to the cereal on the bowl
 end
 
 <img src="https://user-images.githubusercontent.com/32689687/204934670-825d0183-31ce-47bb-a648-ee492fe7c81e.jpg" width="50%" height="50%">
-retos 2,3 y 4
+retos 3,4,5
 
 <img src="https://user-images.githubusercontent.com/32689687/204946931-cf2b647b-fbeb-4ff1-bdce-234b6e10c896.jpg" width="50%" height="50%">
 
-reto 5
+reto 6
 <img src"https://user-images.githubusercontent.com/32689687/204953614-968e504f-b31d-4deb-9d5f-860fc2eed3af.png" width="50%" height="50%">
 
