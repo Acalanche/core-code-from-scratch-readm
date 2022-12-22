@@ -7,11 +7,11 @@
 
 <h1 align="center">CORECODE FRROM SCRATHC</h1>
 
-- Week 1 : [Algorithms](SEMANA 1)
-- Week 2 : [Pseudocode](SEMANA 2)
-- Week 3 : [Pseudocode](SEMANA 3)
-- Week 4 : [Pseudocode](SEMANA 4)
-- Week 5 : [Pseudocode & Introduction to Javascript](SEMANA 5)
+- Week 1 : [Algorithms](/SEMANA 1)
+- Week 2 : [Pseudocode](/SEMANA 2)
+- Week 3 : [Pseudocode](/SEMANA 3)
+- Week 4 : [Pseudocode](/SEMANA 4)
+- Week 5 : [Pseudocode & Introduction to Javascript](/SEMANA 5)
 
 
 
