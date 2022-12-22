@@ -8,10 +8,10 @@
 <h1 align="center">CORECODE FRROM SCRATHC</h1>
 
 - Week 1 : [Algorithms](SEMANA01)
-- Week 2 : [Pseudocode](SEMANA 2)
-- Week 3 : [Pseudocode](SEMANA 3)
-- Week 4 : [Pseudocode](SEMANA 4)
-- Week 5 : [Pseudocode & Introduction to Javascript](SEMANA 5)
+- Week 2 : [Pseudocode](SEMANA02)
+- Week 3 : [Pseudocode](SEMANA03)
+- Week 4 : [Pseudocode](SEMANA04)
+- Week 5 : [Pseudocode & Introduction to Javascript](SEMANA05)
 
 
 
