@@ -1,0 +1,27 @@
+seudocodigo
+se pide el dia de nacimiento
+dia=imprime(entrada(entero("ingrese el dia de su cumpleaños")))
+se pide el mes de nacimiento
+mes=imprime(entrada(entero("ingrese el mes de su cumpleaños")))
+se pide el año de nacimiento
+anho=imprime(entrada(entero("ingrese el año de su nacimiento")))
+se introduce la fecha actual
+dia_actual=imprime(entrada(entero("ingrese el dia actual")))
+mes_actual=imprime(entrada(entero("ingrese el mes actual")))
+anho_actual=imprime(entrada(entero("ingrese el año actual")))
+se calcula la edad exacta restando
+edad_dia=dia_actual-dia
+si edad_dia<0
+	edad_dia=edad_dia+30
+edad_mes=mes_actual-mes
+	si edad_mes<0
+edad_mes=edad_mes+30
+	si edad_dia>30
+	edad_dia=0
+	edad_mes=edad_mes+12
+edad_anho=anho_actual-anho
+	si edad_mes<12
+	edad_anho=edad_anho-1
+si edad mes=0 y edad_dia>=0
+	edad_anho=anho_actual-anho
+imprimir("usted tiene"+string(edad_anho)+"años"+string(edad_mes)+"meses"+string(edad_dia)+dias)

@@ -1,0 +1,24 @@
+calcular el volumen de figuras geometricas
+verificar si la figura geometrica es una esfera, un cubo o una piramide
+si la figura es un cubo
+se mide uno solo de los lados del cubo
+se multiplica 3 veces el tamaño del lado por si mismo, es decir lado x lado x lado
+se muestra en pantalla el volumen obtenido tras la operacion
+si la figura es una esfera
+si se tiene el diametro y no el radio de la esfera
+obtener el radio dividiendo el diametro entre 2
+multiplicar 3 veces el radio por si mismo, es decir r x r x r
+multiplicar ese valor por 3*pi/4 
+mostrar en pantalla el volumen obtenido tras la operacion
+si se tiene el radio de la esfera
+multiplicar 3 veces el radio por si mismo, es decir r x r x r
+multiplicar ese valor por 3*pi/4
+mostrar en pantalla el volumen obtenido tras la operacion
+si la figura es una piramide
+medir la altura
+medir la base
+medir el largo
+multiplicar los 3 numeros de la siguiente forma
+base x altura x largo
+se divide tal valor entre 3
+se muestra en pantalla el valor obtenido tras la operacion

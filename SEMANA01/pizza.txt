@@ -1,0 +1,19 @@
+readme ejercicios 
+preparar pizza
+en un bol añadir harina, sal, azucar, fermento, aceite y agua
+mezclar los ingredientes de la masa
+amasar la masa
+dejar reposar la masa
+hervir tomates
+sofreir cebolla y ajo
+licuar los tomates hervidos con la cebolla y el ajo sofritos
+añadir al licuado sal, azucar y oregano
+hervir la salsa obtenida del licuado
+estirar la masa
+regar la salsa
+rallar queso
+precalentar el horno a 180 grados celcius por 15 minutos
+colocar albahaca a la pizza
+hornear la pizza por 20 minutos
+sacar lapizza del horno
+disfrutar la masa con un buen vino

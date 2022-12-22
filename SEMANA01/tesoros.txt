@@ -1,0 +1,8 @@
+tesoros
+dado que todas las afirmaciones son falsas, se puede hacer la siguiente afirmacion
+"el cofre del medio tiene un tesoro" siendo falso, es equivalente a decir que "el cofe del medio no tiene tesoros"
+"todos los cofres tienen tesoros" siendo falso, es equivalente a la condicion del enunciado de "al menos un cofre posee tesoros"
+"Solo uno de estos cofres tiene tesoros"es falso, por lo que se refuerza que hay mas de un cofre con tesoro, 
+y dado que el cofre del medio no tiene tesoro, es equivalente a decir que hay dos cofres con tesoros los cuales 
+serian los cofres de la izquierda y la derecha.
+

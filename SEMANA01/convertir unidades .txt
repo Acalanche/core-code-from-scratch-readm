@@ -1,0 +1,11 @@
+
+convertir unidades
+verificar si la temperatura esta en celcius o en farenheit
+si la temperatura esta en farenheit
+se resta 32 a la temperatura
+luego se multiplica por 5/9
+se muestra el resultado en pantalla
+si la temperatura esta en celcius
+se multiplica por 9/5 la temperatura
+se le suman 32
+se muestra el resultado en pantalla

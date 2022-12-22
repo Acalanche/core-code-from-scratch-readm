@@ -1,0 +1,7 @@
+numero impar
+preguntar el numero
+dividir el numero entre 2
+si el resto de la division es 0 o el resultado un numero entero
+se muestra que el numero es par
+si el resto de la division es diferente de 0 o el resultado un numero con decimales
+se muestra que el numero es impar
