@@ -12,7 +12,7 @@
 - Week 3 : [Pseudocode](SEMANA03)
 - Week 4 : [Pseudocode](SEMANA04)
 - Week 5 : [Pseudocode & Introduction to Javascript](SEMANA05)
-- Week 5 : [Introduction to Javascript](SEMANA06)
+- Week 6 : [Introduction to Javascript](SEMANA06)
 
 
 
