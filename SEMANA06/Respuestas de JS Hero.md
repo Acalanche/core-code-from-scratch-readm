@@ -1,40 +1,73 @@
 <h3> Varaiables </h3>
-let firstname='Lata';
+<p>
+  let firstname='Lata';
+</p>
 <h3>Valor de X</h3>
-'Geeta'
+<p>
+  'Geeta'
+</p>
 <h3> Varias Variables </h3>
-let flower='rose';
+<p>
+let flower='rose';<br />
 let tree='maple';
+ </p>
 <h3> Reasiganacion </h3>
-'Toe'
+<p>
+'Toe'<br />
+   </p>
 <h3> Asignacion de Variables </h3>
-'Hardy'
+<p>
+'Hardy'<br />
+   </p>
 <h3> Funciones </h3>
-function hello() {
-return 'Hello world!';
-}
+<p>
+function hello() {<br />
+
+return 'Hello world!';<br />
+}   
+</p>
 <h3> multiples funciones </h3>
-function a(){
-return 'Hello a!'
-};
-function b(){
-return 'Hello b!'
-}
-
+<p>
+function a(){<br />
+ </p>
+return 'Hello a!'<br />
+};<br />
+function b(){<br />
+return 'Hello b!'<br />
+}<br />
+   </p>
 <h3>Invocacion de Funciones</h3>
-function greet(){return 'Haydo!'};
-let salutation=greet();
-
+<p>
+function greet(){return 'Haydo!'};<br />
+let salutation=greet();<br />
+   </p>
 <h3> Valor de X(version de funciones) </h3>
-'Hi!'
+<p>
+  'Hi!'<br />
+</p>
 <h3> Parametros </h3>
-function echo(input){return input};
-echo('Greta');
-echo('CO2');
+<p>
+function echo(input){return input};<br />
+echo('Greta');<br />
+echo('CO2');<br />
+</p>  
 <h3> Strings </h3>
-'How do you do?'
+<p>
+'How do you do?'<br />
+ </p>   
 <h3>String: length </h3>
+<p>
 
+</p>  
 <h3>String: toUpperCase() </h3>
+<p>
+
+</p>  
 <h3>String: charAt() </h3>
+<p>
+
+</p>  
 <h3>String: indexOf() </h3>
+<p>
+
+</p>  
