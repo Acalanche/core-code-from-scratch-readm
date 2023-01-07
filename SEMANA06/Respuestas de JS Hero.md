@@ -57,7 +57,10 @@ echo('CO2');<br />
  </p>   
 <h3>String: length </h3>
 <p>
-
+function length(word){<br />
+let x= word.length<br />
+return x<br />
+}<br />
 </p>  
 <h3>String: toUpperCase() </h3>
 <p>
