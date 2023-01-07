@@ -64,10 +64,10 @@ return x<br />
 </p>  
 <h3>String: toUpperCase() </h3>
 <p>
-function toCase(w){
-let x=w.toLowerCase()+'-'+w.toUpperCase()
-return x
-}
+function toCase(w){<br />
+let x=w.toLowerCase()+'-'+w.toUpperCase()<br />
+return x<br />
+}<br />
 </p>  
 <h3>String: charAt() </h3>
 <p>
