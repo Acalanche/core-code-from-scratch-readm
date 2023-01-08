@@ -78,5 +78,10 @@ return x<br />
 </p>  
 <h3>String: indexOf() </h3>
 <p>
-
+function indexOfIgnoreCase(a,b){<br />
+a=a.toLowerCase()<br />
+b=b.toLowerCase()<br />
+let c=a.indexOf(b);<br />
+return c<br />
+}<br />
 </p>  
