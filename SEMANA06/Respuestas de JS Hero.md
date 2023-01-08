@@ -71,7 +71,10 @@ return x<br />
 </p>  
 <h3>String: charAt() </h3>
 <p>
-
+function shortcut(a,b){<br />
+let x= a.charAt(0)+b.charAt(0)<br />
+return x<br />
+}<br />
 </p>  
 <h3>String: indexOf() </h3>
 <p>
